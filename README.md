@@ -1,1 +1,1 @@
-## Practicising Git commands ofr Data Science
+### Practicising Git commands ofr Data Science
